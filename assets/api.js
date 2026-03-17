@@ -1,6 +1,6 @@
 // ======= API CONFIG =======
 // const API_BASE = "http://localhost:8080/api/v1";
-const API_BASE = "https://healix-backend-with-railway-db-1.onrender.com/api/v1";
+const API_BASE = "https://healix-backend-with-railway-db-2.onrender.com/api/v1";
 const AUTH_BASE = `${API_BASE}/auth`;
 
 const TOKEN_KEY = "accessToken";
